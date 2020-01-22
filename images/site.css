@@ -1,0 +1,62 @@
+﻿
+
+html { 
+	background: url(/images/bg.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body  
+{
+    font-size: 16px;    
+    font-family: Courier, monospace;  
+    
+    font-weight:bolder;
+    
+        
+    }
+a
+{
+    text-decoration:none;
+    outline:none;
+    color:#0099ff;
+     
+      
+}
+    
+#Wrapper
+{
+    float:right;
+    width: 500px;
+}
+     
+.box
+{
+    background-color:Black;
+   
+    padding:1px 6px 8px 20px;
+    
+}  
+
+.about
+{
+    color:#999999;
+}
+
+h1
+{
+    background-color:Black;
+    color:White !important; 
+}
+
+p 
+{
+    
+}
+
+.cursor
+{
+    color:White;
+}
